@@ -1,6 +1,11 @@
 # Mesa de monitoreo por puntos
 
-## Creación de un ambiente Conda
+## Activación del ambiente Conda
+```shell
+$ conda activate mesa-monitoreo-puntos
+```
+
+## Creación del ambiente Conda
 ```shell
 $ conda update conda
 $ conda create -n mesa-monitoreo-puntos
