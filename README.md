@@ -4,7 +4,7 @@
 
 ### Directamente en R
 ```r
-install.packages(c('devtools', 'rodbc', 'sqldf', 'httr', 'gdal', 'libgdal, 'raster', 'geos', 'sp', 'data.table', 'rcpp', 'sf'))
+install.packages(c('devtools', 'rodbc', 'sqldf', 'httr', 'gdal', 'libgdal', 'raster', 'geos', 'sp', 'data.table', 'rcpp', 'sf'))
 ```
 
 ### Con Conda
